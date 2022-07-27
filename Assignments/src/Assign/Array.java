@@ -12,5 +12,6 @@ public class Array {
 		 System.out.println("THE SUM is "+ sum);
 		 System.out.println("length is "+ arr.length);
 		 
+		 
 	}
 }
